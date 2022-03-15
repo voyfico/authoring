@@ -4,7 +4,7 @@ bdl-04-publishing-authoring-voyfico solution <br>
 ### CHECKLIST
 - [x] [External Link](#external-link)
 - [] [Internal Link](#internal-link)
-- [] [Images](#images)
+- [x] [Images](#images)
 - [x] [Emoji](#emoji)
 - [x] [Table](#table)
 <br>
@@ -13,8 +13,9 @@ bdl-04-publishing-authoring-voyfico solution <br>
 [Help is always there if you need it](https://help.github.com/en)
 ### Internal Link
 
+
 ### Images
-![Weird little GitHub logo]()
+![Weird little GitHub logo](https://github.com/voyfico/authoring/blob/main/images/logo.png)
 
 ### Emoji
 😊
